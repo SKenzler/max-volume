@@ -6,7 +6,6 @@
 
 Max Volume is a Landing Page designed to attract a younger demographic to this fictional music streaming community. The site enables the user to Search, Listen and Download music from a wide range of categories. The design was completed in Figma then built in VS Code. The Landing Page is responsive. Both HTML5 and CSS3 was utilised to develop each element.
 
-[Live Demo](http://max-volume-dev.42web.io/?i=1)
 
 ## Built With
 
